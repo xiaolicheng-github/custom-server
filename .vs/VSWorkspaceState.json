@@ -1,0 +1,22 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "本地计算机": [
+      "out\\build\\x64-Debug",
+      "out\\install\\x64-Debug"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\imgui-1.83",
+    "\\imgui-1.83\\libs\\gl3w",
+    "\\imgui-1.83\\libs\\gl3w\\GL",
+    "\\imgui-1.83\\libs\\glfw",
+    "\\imgui-1.83\\libs\\glfw\\lib-vc2010-64",
+    "\\imgui-1.83\\libs\\usynergy",
+    "\\src",
+    "\\src\\unix",
+    "\\src\\win"
+  ],
+  "SelectedNode": "\\src\\win\\main.cpp",
+  "PreviewInSolutionExplorer": false
+}
